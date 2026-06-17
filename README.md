@@ -23,7 +23,7 @@ This is Prompt Injection—the SQL Injection of the AI era.
 ```text
 [ Untrusted User Input ] 
            ↓
-    [ AI Model (LLM) ]  ← Hijacked Context
+[ AI Model (LLM) ]  ← Hijacked Context
            ↓
 [ Tools / API / RAG System ] 
            ↓
