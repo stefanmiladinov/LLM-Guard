@@ -40,7 +40,3 @@ This repository provides minimal, production-ready Python implementations demons
 Developed by **Stefan Miladinović**, AI Engineer specializing in LLMOps and AI Application Security.
 
 License: MIT
-
-```
-
-```
